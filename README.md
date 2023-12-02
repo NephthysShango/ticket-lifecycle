@@ -33,7 +33,7 @@ This tutorial displays the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/B4bT0eB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a list of open tickets to get resolved. Set the pripority and assigned to agents. 
+Created a list of open tickets to get resolved. Set the priority and assigned to agents. 
 </p>
 <br />
 
