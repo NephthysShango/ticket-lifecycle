@@ -33,22 +33,22 @@ This tutorial displays the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/B4bT0eB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a list of open tickets to get resolved. Sdet the pripority and assigned to agents. 
+Created a list of open tickets to get resolved. Set the pripority and assigned to agents. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ki1z1GR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Communication thread showing that the ticket is underway.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OUcAHsu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Signed in as one of the agnents to add on to the communication thread of another ticket letting them know that the issue was resolved and closed the ticket.
 </p>
 <br />
